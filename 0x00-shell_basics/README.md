@@ -1,1 +1,1 @@
-bin/bash is bourne again shell script and pwd prints current working directory
+script that prints the absolute path name of the current working directory
