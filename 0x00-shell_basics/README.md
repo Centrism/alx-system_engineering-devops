@@ -1,1 +1,1 @@
-pwd is for current working directory
+bin/bash is bourne again shell script and pwd prints current working directory
