@@ -1,2 +1,2 @@
 #!/bin/bash
-tree -d
+echo $PATH | tr : n | wc -l
